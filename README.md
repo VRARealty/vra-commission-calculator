@@ -1,6 +1,6 @@
 # VRA Commission Calculator
 
-This is a React app that helps agents estimate their income and referral bonuses based on the VRA Realty commission plans.
+This is a app that helps agents estimate their income and referral bonuses based on the VRA Realty commission plans.
 
 ## 🚀 Getting Started
 
