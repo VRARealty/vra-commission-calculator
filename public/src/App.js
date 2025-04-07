@@ -1,5 +1,5 @@
-import React from 'react';
-import CommissionCalculator from './CommissionCalculator';
+import React from "react";
+import CommissionCalculator from "./CommissionCalculator";
 
 function App() {
   return (
